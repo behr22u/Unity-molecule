@@ -1,0 +1,19 @@
+# Created by Jmol 14.2.12_2015.02.11  2015-02-11 06:00
+
+newmtl k3050f8
+ Ns 163
+ Tr 1
+ Ni 0.001
+ illum 2
+ Ka 0.20 0.20 0.20
+ Kd .191 .316 .973
+ Ks 0.25 0.25 0.25
+
+newmtl kffffff
+ Ns 163
+ Tr 1
+ Ni 0.001
+ illum 2
+ Ka 0.20 0.20 0.20
+ Kd 1 1 1
+ Ks 0.25 0.25 0.25
