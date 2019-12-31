@@ -7,3 +7,6 @@ Les modèles des molécules sont des fichiers au format .obj, ils se trouvent da
 
 # La création des molécules
 Les modèles ont été récupéré grâce au logiciel jmol http://jmol.sourceforge.net/, dédié aux structures chimiques qui permet de récupérer le format obj d'un modèle qui est utilisable sur unity.
+
+# Modifications et charegement du package
+Pour récupérer le projet et l'ouvrir sur unity, il faut importer le package **mol20.unitypackage** avec unity. Une fois modifié il faudra réexporter le fichier.
